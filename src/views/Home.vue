@@ -1,6 +1,6 @@
 <template>
     <section>
-      <h2>Bienvenido a mi portfolio</h2>
-      <p>Diseñador, desarrollador y explorador digital.</p>
+      <h2>Välkommen till min portfolio</h2>
+      <p>Designer, utvecklare och digital utforskare.</p>
     </section>
   </template>

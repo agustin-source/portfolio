@@ -1,6 +1,6 @@
 <template>
     <section id="contact">
-      <h2>Contacto</h2>
-      <p>Podés escribirme a: <a href="mailto:tuemail@example.com">tuemail@example.com</a></p>
+      <h2>Kontakt</h2>
+      <p>Du kan nå mig via: <a href="mailto:agustin.ok@icloud.com">agustin.ok@icloud.com</a></p>
     </section>
   </template>

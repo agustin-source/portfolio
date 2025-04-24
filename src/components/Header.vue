@@ -2,9 +2,9 @@
     <header>
       <h1>Agustín Martínez</h1>
       <nav>
-        <a href="#about">Sobre mí</a>
-        <a href="#projects">Proyectos</a>
-        <a href="#contact">Contacto</a>
+        <a href="#about">Om mig</a>
+        <a href="#projects">Projekt</a>
+        <a href="#contact">Kontakt</a>
       </nav>
     </header>
   </template>
